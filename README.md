@@ -1,12 +1,11 @@
 
 
 ### Hello World 🌏
+---
 
 * Olá! Me chamo Breno Gabriel.
 * Formado em Tecnologia da Informação.
-* Cursando Análise e Desenvolvimento de Sistemas
-
-![Dog](https://imgs.search.brave.com/ZwFgFxavgauJYLeuodhyYmAwurr9fIwc6C78R5kszK4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/emFwZmlndXJpbmhh/cy5jb20vaW1nL3dl/YnAvd1dIQlI0Lndl/YnA)
+* Cursando Análise e Desenvolvimento de Sistemas.
 
 
 ---
@@ -25,3 +24,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brenoalmeida/)
 
 ---
+
+
+![Dog](https://imgs.search.brave.com/f9H7oAp8HcH0ivF6SJ_-rtlQFseFvwhqh2oxcavcC-M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9iLnRo/dW1icy5yZWRkaXRt/ZWRpYS5jb20vREoy/S1VVMlVkcWR5OEJs/ZDlWZWZ0WWxfNGVu/TzU3Z041b1FNWmpZ/Rld2dy5qcGc)
